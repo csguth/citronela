@@ -1,0 +1,56 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.8 }
+
+\bibitem[Barnard e Xue 2004]{barnard2004}
+\abntrefinfo{Barnard e Xue}{BARNARD; XUE}{2004}
+{BARNARD, D.~R.; XUE, R.-D. Laboratory evaluation of mosquito repellents
+  against aedes albopictus, culex nigripalpus, and ochlerotatus triseriatus
+  (diptera: Culicidae).
+\emph{Journal of medical entomology}, BioOne, v.~41, n.~4, p. 726--730, 2004.}
+
+\bibitem[CHAGAS 2003]{chagas2003}
+\abntrefinfo{CHAGAS}{CHAGAS}{2003}
+{CHAGAS, A. e.~a. Sensibilidade do carrapato boophilus microplus a solventes.
+\emph{Ciência Rural}, v.~33, n.~1, p. 109--114, 2003.}
+
+\bibitem[Grisi et al. 2002]{grisi2002}
+\abntrefinfo{Grisi et al.}{GRISI et al.}{2002}
+{GRISI, L. et al. Impacto econômico das principais ectoparasitoses em bovinos
+  no brasil.
+\emph{A Hora Veterinária}, v.~21, n.~125, p. 9--10, 2002.}
+
+\bibitem[KIM et al. 2005]{kim2005}
+\abntrefinfo{KIM et al.}{KIM et al.}{2005}
+{KIM, J.-K. et al. Evaluation of repellency effect of two natural aroma
+  mosquito repellent compounds, citronella and citronellal.
+\emph{Entomological Research}, Blackwell Publishing Ltd, v.~35, n.~2, p.
+  117--120, 2005.}
+
+\bibitem[Kim et al. 1995]{kim1995}
+\abntrefinfo{Kim et al.}{KIM et al.}{1995}
+{KIM, J.~M. et al. Antibacterial activity of carvacrol, citral, and geraniol
+  against salmonella typhimurium in culture medium and on fish cubes.
+\emph{Journal of Food Science}, Blackwell Publishing Ltd, v.~60, n.~6, p.
+  1364--1368, 1995.
+ISSN 1750-3841.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/dx\-.doi\-.org\-/10\-.1111\-/j\-.1365-2621\-.1995\-.tb04592\-.x$>$}{http://dx.doi.org/10.1111/j.1365-2621.1995.tb04592.x}.}
+
+\bibitem[Nakahara et al. 2003]{nakahara2003}
+\abntrefinfo{Nakahara et al.}{NAKAHARA et al.}{2003}
+{NAKAHARA, K. et al. Chemical composition and antifungal activity of essential
+  oil from cymbopogon nardus (citronella grass).
+\emph{Japan Agricultural Research Quarterly}, TROPICAL AGRICULTURAL RESEARCH
+  CENTRE, MINISTRY OF, v.~37, n.~4, p. 249--252, 2003.}
+
+\bibitem[Olivo et al. 2008]{clair2008}
+\abntrefinfo{Olivo et al.}{OLIVO et al.}{2008}
+{OLIVO, N. M.~d. C.~J. et al. {\'O}leo de citronela no controle do carrapato de
+  bovinos.
+\emph{Cienc. Rural}, v.~38, n.~2, 2008.}
+
+\end{thebibliography}

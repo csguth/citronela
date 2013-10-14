@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: apresentacao.aux
+The style file: abntex2-alf.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Database file #1: abntex2-options.bib
+Database file #2: referencias.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.8           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://abntex2.googlecode.com                           |
++---------------------------------------------------------+
+You've used 8 entries,
+            6642 wiz_defined-function locations,
+            1237 strings with 10977 characters,
+and the built_in function-call counts, 9519 in all, are:
+= -- 1013
+> -- 259
+< -- 133
++ -- 247
+- -- 75
+* -- 660
+:= -- 1232
+add.period$ -- 23
+call.type$ -- 8
+change.case$ -- 91
+chr.to.int$ -- 29
+cite$ -- 7
+duplicate$ -- 685
+empty$ -- 455
+format.name$ -- 375
+if$ -- 2083
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 134
+newline$ -- 45
+num.names$ -- 35
+pop$ -- 178
+preamble$ -- 1
+purify$ -- 35
+quote$ -- 0
+skip$ -- 759
+stack$ -- 1
+substring$ -- 457
+swap$ -- 283
+text.length$ -- 22
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 62
+width$ -- 0
+write$ -- 132
